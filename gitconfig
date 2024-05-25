@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = uka.robert@outlook.it
+	name = Robert Uka
